@@ -1,5 +1,5 @@
 PKG_NAME := pypi-azure_common
-URL = https://files.pythonhosted.org/packages/68/ac/c803d8422b4ae1bd6938e6bcd53cd7944ec120112039b9bd59b350b3b8ae/azure-common-1.1.27.zip
+URL = https://files.pythonhosted.org/packages/3e/71/f6f71a276e2e69264a97ad39ef850dca0a04fce67b12570730cb38d0ccac/azure-common-1.1.28.zip
 ARCHIVES = 
 
 include ../common/Makefile.common
