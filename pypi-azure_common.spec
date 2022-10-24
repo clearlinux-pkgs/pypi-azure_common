@@ -4,7 +4,7 @@
 #
 Name     : pypi-azure_common
 Version  : 1.1.28
-Release  : 11
+Release  : 12
 URL      : https://files.pythonhosted.org/packages/3e/71/f6f71a276e2e69264a97ad39ef850dca0a04fce67b12570730cb38d0ccac/azure-common-1.1.28.zip
 Source0  : https://files.pythonhosted.org/packages/3e/71/f6f71a276e2e69264a97ad39ef850dca0a04fce67b12570730cb38d0ccac/azure-common-1.1.28.zip
 Summary  : Microsoft Azure Client Library for Python (Common)
